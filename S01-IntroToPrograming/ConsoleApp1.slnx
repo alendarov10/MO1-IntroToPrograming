@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/S01-IntroToPrograming/">
+    <File Path="P01-HelloSoftUni.cs" />
+    <File Path="P02-Expression.cs" />
+    <File Path="P03-Nums1To20.cs" />
+    <File Path="P04-TriangleOf55Stars.cs" />
+    <File Path="P05-RectangleSquare.cs" />
+    <File Path="P06-SquareOfNStars.cs" />
+  </Folder>
+</Solution>
