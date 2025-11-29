@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="P00-SandBox.cs" />
+    <File Path="P01-SquareArea.cs" />
+    <File Path="P02-InchesToCentimeters.cs" />
+    <File Path="P03-ConcatenateData.cs" />
+    <File Path="P03-Greeting.cs" />
+    <File Path="P05-ConvertCtoF.cs" />
+    <File Path="P06-Convert_Rad_Deg.cs" />
+    <File Path="P07-Convert_USD_BGN.cs" />
+    <File Path="P08-Trapezoid_Area.cs" />
+    <File Path="P09-Area_Perimeter.cs" />
+    <File Path="P10-Rectangle_Area.cs" />
+    <File Path="P11-Triangle_Area.CS" />
+    <File Path="P12-Convert_Money.cs" />
+    <File Path="P13-1000_Days.cs" />
+  </Folder>
+</Solution>
