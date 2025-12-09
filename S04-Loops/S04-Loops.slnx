@@ -1,0 +1,34 @@
+<Solution>
+  <Project Path="P01-Numbers1To100/P01-Numbers1To100.csproj" />
+  <Project Path="P02-NumbersEnding7/P02-NumbersEnding7.csproj" />
+  <Project Path="P03-LatinLetters/P03-LatinLetters.csproj" />
+  <Project Path="P04-SumOfNumbers/P04-SumOfNumbers.csproj" />
+  <Project Path="P05-MinNumber/P05-MinNumber.csproj" />
+  <Project Path="P06-LeftRightSum/P06-LeftRightSum.csproj" Id="01c595d9-a926-4fe8-b4e7-21d74988b398" />
+  <Project Path="P07-EvenOddSums/P07-EvenOddSums.csproj" Id="eded17bf-8548-4dd6-ae58-ce4da32fd705" />
+  <Project Path="P08-EqualCouples/P08-EqualCouples.csproj" Id="3dd39c31-391b-4176-838a-fd5a3f8fdf03" />
+  <Project Path="P09-SumOfTheOthers/P09-SumOfTheOthers.csproj" Id="20376323-421e-4885-a7e8-53cb746334be" />
+  <Project Path="P10-RectangleOf10x10Stars/P10-RectangleOf10x10Stars.csproj" Id="b138a34b-7415-4865-87b7-1888a85f6583" />
+  <Project Path="P11-RectangleOfNxNStars/P11-RectangleOfNxNStars.csproj" Id="5eed21b9-5c00-4076-842a-070a747a3e31" />
+  <Project Path="P12-SquareOfNxNStars/P12-SquareOfNxNStars.csproj" Id="8300a47a-cfc5-4cdf-bcab-6f327ca48d4d" />
+  <Project Path="P13-TriangleOfDollar/P13-TriangleOfDollar.csproj" Id="cc5f7230-e523-4f6d-b3be-3f57f61fc21e" />
+  <Project Path="P14-SquareFrame/P14-SquareFrame.csproj" Id="7972a205-1174-43c2-8734-9cc97ab9e848" />
+  <Project Path="P15-DiamondOfStars/P15-DiamondOfStars.csproj" Id="fc4b9d83-7190-4c66-b325-a21ee19473f4" />
+  <Project Path="P16-ChristmasTree/P16-ChristmasTree.csproj" Id="363bc5e6-a05a-45c3-a078-2c94f43f9ab7" />
+  <Project Path="P17-SunGlasses/P17-SunGlasses.csproj" Id="5e582953-eaf2-418b-b146-b7283455f274" />
+  <Project Path="P19-Diamond/P19-Diamond.csproj" Id="d5bb5f87-cfe1-4b91-b3cb-7a3063a32ee0" />
+  <Project Path="P20-LoopByStep3/P20-LoopByStep3.csproj" Id="a4d03bdf-80a3-4cef-9eb7-e73a38b2a5cb" />
+  <Project Path="P21-/P21-NumbersFromNto1.csproj" Id="2e0ba734-feff-4a91-ab7f-ee93291547ac" />
+  <Project Path="P22-NumbersPowerOf2/P22-NumbersPowerOf2.csproj" Id="47958582-5087-47b8-b20b-e3f9850b549e" />
+  <Project Path="P23-EvenPowerOf2/P23-EvenPowerOf2.csproj" Id="8f8abdab-e7e4-4835-840d-6fe1fb441d9d" />
+  <Project Path="P24-OrderOf2kPlus1/P24-OrderOf2kPlus1.csproj" Id="d6f02d47-a8cf-4863-94f1-ccc558e2886d" />
+  <Project Path="P25-NumberInRange1_100/P25-NumberInRange1_100.csproj" Id="ffb6ce47-d4ed-4d9f-b094-bae8b4e1bc02" />
+  <Project Path="P26-TheLCD (NOD)/P26-TheLCD (NOD).csproj" Id="e145dbac-43e5-4c3b-895c-c7ec82838865" />
+  <Project Path="P27-Factoriel/P27-Factoriel.csproj" Id="defad422-1796-49a3-b8f2-f27856cdb07f" />
+  <Project Path="P28-SumDigitsOfNumber/P28-SumDigitsOfNumber.csproj" Id="80ae578b-32d3-43aa-b664-0928a1ab20a0" />
+  <Project Path="P29-PrimeNumber/P29-PrimeNumber.csproj" Id="e84e0633-625b-4dfc-bcbb-f4cc0f7fd269" />
+  <Project Path="P30-EvenNumberWithCheck/P30-EvenNumberWithCheck.csproj" Id="2f3fc513-f3b1-4305-a2bb-2b1aa0847681" />
+  <Project Path="P31-FibonacciNumber/P31-FibonacciNumber.csproj" Id="2cf993a8-1960-4833-9645-6f56937e0fe3" />
+  <Project Path="P32-PyramidOfNumbers/P32-PyramidOfNumbers.csproj" Id="e4dfc288-b1c6-43b1-84a8-bd7be44d9eea" />
+  <Project Path="P33-MatrixOfNumbers/P33-MatrixOfNumbers.csproj" Id="2837e718-f61e-4ff1-b247-1c8ed97c9ff6" />
+</Solution>
